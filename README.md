@@ -2,4 +2,4 @@
 
 Software solution for pass task 7B
 
-This project relies on a combination of HTML, CSS and PHP. It is a tool which can allow staff members to store customer investment information, for the business: Asset & Wealth Services.
+This project relies on a combination of HTML, CSS and JS. It is a tool which can allow staff members to store customer investment information, for the business: Asset & Wealth Services.
